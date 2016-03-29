@@ -1,0 +1,28 @@
+name: hampshire
+favicon: null
+layout_spectrum: 0.843376126838848
+typography_spectrum: 0.14639356941916049
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6946179918013513
+  lightness: 0.8693130072206259
+  saturation: 0.8228452110197395
+  rhythmicContrast: 0.867666608421132
+purpose: []
